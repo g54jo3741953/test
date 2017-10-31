@@ -1,3 +1,6 @@
 ## 
 
-print("Git Practice modify first time")
+print("Git Practice modify second time")
+
+
+a = 1
