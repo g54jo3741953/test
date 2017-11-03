@@ -1,5 +1,1 @@
-
-
-a = 5
-b = 6
-c = 3
+# Went back file
